@@ -1,0 +1,21 @@
+version: "3.9"
+
+services:
+  postgres:
+    image: 'postgres:16.0'
+    container_name: 'test-db'
+    restart: 'always'
+    environment:
+      POSTGRES_DB: database
+      POSTGRES_PASSWORD: password
+      POSTGRES_USER: adm
+    ports:
+      - "15432:5432"
+
+  app:
+    image: constantineshylau1991/test:v1.0.2
+    container_name: 'test-app'
+    environment:
+      SPRING_PROFILES_ACTIVE: dev
+
+

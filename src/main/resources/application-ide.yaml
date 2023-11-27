@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    username: adm
+    password: password
+    url: jdbc:postgresql://localhost:15432/database
