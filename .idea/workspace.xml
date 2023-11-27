@@ -4,44 +4,53 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffbe7577-e6b8-4052-ad83-8c7ccf8a9743" name="Changes" comment="" />
+    <list default="true" id="ffbe7577-e6b8-4052-ad83-8c7ccf8a9743" name="Changes" comment="1.0">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-dev.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-dev.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/testroma/TestRomaApplicationTests.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Yl8sCh3mPeoOxrLxd3Z6ZzuMio" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/работа/2. Docker/0/test-roma/src/main/resources&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;65dcd56305337facea9f8e66488a6098&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/работа/2. Docker/0/test-roma",
+    "spring.configuration.checksum": "65dcd56305337facea9f8e66488a6098"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;postgresql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\работа\2. Docker\0\test-roma\src\main\resources" />
       <recent name="C:\работа\2. Docker\0\test-roma" />
     </key>
   </component>
-  <component name="RunManager" selected="Docker.docker-compose.yaml: Compose Deployment">
+  <component name="RunManager" selected="Docker.docker-compose.yaml.app: Compose Deployment">
     <configuration name="test-ide" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <option name="ACTIVE_PROFILES" value="ide" />
       <module name="test-roma" />
@@ -81,9 +90,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Docker.docker-compose.yaml: Compose Deployment" />
-        <item itemvalue="Docker.Dockerfile" />
         <item itemvalue="Docker.docker-compose.yaml.app: Compose Deployment" />
+        <item itemvalue="Docker.Dockerfile" />
+        <item itemvalue="Docker.docker-compose.yaml: Compose Deployment" />
       </list>
     </recent_temporary>
   </component>
@@ -99,11 +108,34 @@
       <workItem from="1701089359418" duration="1299000" />
       <workItem from="1701091418892" duration="2658000" />
       <workItem from="1701094286765" duration="7278000" />
-      <workItem from="1701104705387" duration="4462000" />
+      <workItem from="1701104705387" duration="6159000" />
     </task>
+    <task id="LOCAL-00001" summary="1.0">
+      <created>1701116284094</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701116284094</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.0" />
   </component>
 </project>

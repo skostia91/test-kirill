@@ -13,7 +13,8 @@ services:
       - "15432:5432"
 
   app:
-    image: constantineshylau1991/test:v1.0.2
+    build: .
+#    image: constantineshylau1991/test:v1.0.2
     container_name: 'test-app'
     environment:
       SPRING_PROFILES_ACTIVE: dev
